@@ -5,7 +5,7 @@ How to Install:
 1. install node.js
 2. install discord.js
 3. install dotenv in your project directory
-4.install openai js api 
+4. install openai js api
 
 How to Run:
 1. cd to your project directory usning command terminal 

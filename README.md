@@ -8,5 +8,5 @@ How to Install:
 4. install openai js api
 
 How to Run:
-1. cd to your project directory usning command terminal 
+1. cd to your project directory using command terminal 
 2. type 'node bot.js'

@@ -1,4 +1,0 @@
-node.js
-discord.js
-dotenv
-openai

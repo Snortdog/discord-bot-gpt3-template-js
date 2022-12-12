@@ -4,8 +4,8 @@ A simple GPT-based Discord chatbot. Written in js. No other commands written. Th
 How to Install:
 1. install node.js
 2. install discord.js
-install dotenv in your project directory
-install openai js api 
+3. install dotenv in your project directory
+4.install openai js api 
 
 How to Run:
 1. cd to your project directory usning command terminal 
